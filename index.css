@@ -1,0 +1,15 @@
+*{
+	margin:0;
+	padding:0;
+}
+.content{
+	height:100%;
+	width:100%;
+}
+#ball{
+	width:100px;
+	height:102px;
+	position:absolute;
+	left:0;
+	top:0;
+}
